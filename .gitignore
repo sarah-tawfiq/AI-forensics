@@ -1,0 +1,8 @@
+# Local environment
+.venv/
+
+# Dataset
+Data/
+
+# Notebook temporary files
+.ipynb_checkpoints/
